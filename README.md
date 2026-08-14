@@ -1,2 +1,2 @@
 # exerc-cio1
-irei fazer meu primeiro "hello word"
+nesse proejto inicial subo meu primeiro codigo html
